@@ -1,0 +1,10 @@
+
+these are the seven classes of food
+
+carbohydrate
+protein
+vitamins
+fats and oils
+minerals
+fibre
+water
