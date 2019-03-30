@@ -4,9 +4,11 @@ these are the seven classes of food
 carbohydrate
 protein
 vitamins
-fats and oils
+*fats and oils
 minerals
 fibre
 water
 
+
+*fats and oils has been phased out, it is just fats now 
 a meal consisting of all major classes is considered a balanced diet
